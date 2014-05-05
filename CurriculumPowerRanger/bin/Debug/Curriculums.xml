@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPersona xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Persona>
+    <Cedula>03105536811</Cedula>
+    <Nombre>Delvis</Nombre>
+    <Apellido>Gomez</Apellido>
+    <FechaNacimiento>1991-12-18T10:54:31</FechaNacimiento>
+    <ColorFavorito>blue </ColorFavorito>
+    <CuentaTwitter>@victor_0z18</CuentaTwitter>
+    <Celular>829-403-0093</Celular>
+    <Telefono>809-576-1690</Telefono>
+    <AnimalFavorito>cocodrilo</AnimalFavorito>
+    <Direccion>casa # 22, ensache la rotonda, santiago, rep. dom</Direccion>
+    <Enfermedad>ninguna</Enfermedad>
+    <VehiculoFavorito>mini cooper</VehiculoFavorito>
+    <Trabajo>no</Trabajo>
+    <Estudia>itla</Estudia>
+    <Comentario>le falta alguna detalles a la aplicacion en lo generar esta bien.</Comentario>
+  </Persona>
+  <Persona>
+    <Cedula>402-2509848-8</Cedula>
+    <Nombre>raynilda</Nombre>
+    <Apellido>ortega</Apellido>
+    <FechaNacimiento>1995-04-22T15:06:29</FechaNacimiento>
+    <ColorFavorito>Todos</ColorFavorito>
+    <CuentaTwitter>@queen_ortega</CuentaTwitter>
+    <Celular>209-323-2313</Celular>
+    <Telefono>000-000-0000</Telefono>
+    <AnimalFavorito>Mariposa</AnimalFavorito>
+    <Direccion>Frailes II, Las Americas</Direccion>
+    <Enfermedad>Sinositis</Enfermedad>
+    <VehiculoFavorito>BMW</VehiculoFavorito>
+    <Trabajo>Ninguno</Trabajo>
+    <Estudia>ITLA</Estudia>
+    <Comentario>Quiero ser un power ranger</Comentario>
+  </Persona>
+  <Persona>
+    <Cedula>010-0005339-5</Cedula>
+    <Nombre>Delis</Nombre>
+    <Apellido>Ortiz</Apellido>
+    <FechaNacimiento>1996-04-29T14:45:59</FechaNacimiento>
+    <ColorFavorito>Morado</ColorFavorito>
+    <CuentaTwitter>@DelisOrtiz</CuentaTwitter>
+    <Celular>809-758-6796</Celular>
+    <Telefono>809-534-4461</Telefono>
+    <AnimalFavorito>Cotorra</AnimalFavorito>
+    <Direccion>C/vicente noble #34</Direccion>
+    <Enfermedad>Taquicardia</Enfermedad>
+    <VehiculoFavorito>Range Rover</VehiculoFavorito>
+    <Trabajo>Estudiar</Trabajo>
+    <Estudia>Instituto tecnologico de las Americas (ITLA)</Estudia>
+    <Comentario>Controlar el mundo</Comentario>
+  </Persona>
+</ArrayOfPersona>

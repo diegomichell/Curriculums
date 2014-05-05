@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\bin\Debug\CurriculumPowerRanger.exe.config
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\bin\Debug\CurriculumPowerRanger.exe
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\bin\Debug\CurriculumPowerRanger.pdb
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.csprojResolveAssemblyReference.cache
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.mainWindow.resources
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.Properties.Resources.resources
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.csproj.GenerateResource.Cache
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.exe
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.pdb
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.AboutBox.resources
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.AddCurriculumWindow.resources
+C:\Users\USUARIO\Dropbox\Projects\C#\CurriculumPowerRanger\CurriculumPowerRanger\obj\Debug\CurriculumPowerRanger.UpdateCurriculumWindow.resources
